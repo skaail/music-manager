@@ -1,0 +1,1 @@
+Fullstack app para gerenciamento de musicas, artistas, shows, playlists e albuns
