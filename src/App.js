@@ -14,7 +14,7 @@ function App() {
     <>
       <Navbar bg="light" variant="light">
         <Container>
-          <Navbar.Brand href="#home">SpotiMan</Navbar.Brand>
+          <Navbar.Brand href="/">SpotiMan</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
 
